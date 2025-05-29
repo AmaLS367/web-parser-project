@@ -1,0 +1,15 @@
+Django
+django-environ
+django-redis
+celery
+django-celery-beat
+django-celery-results
+redis
+requests
+beautifulsoup4
+lxml
+pyppeteer
+pytesseract
+Pillow
+ipython
+psycopg2-binary>=2.9

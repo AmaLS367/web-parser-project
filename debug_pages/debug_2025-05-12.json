@@ -1,0 +1,329 @@
+{
+  "available_hours": [
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "6-6:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 21600.0,
+      "in_waitlist": false,
+      "group": 48600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "6:30-7am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 23400.0,
+      "in_waitlist": false,
+      "group": 48600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "7-7:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 25200.0,
+      "in_waitlist": false,
+      "group": 48600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "7:30-8am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 27000.0,
+      "in_waitlist": false,
+      "group": 59400
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "8-8:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 28800.0,
+      "in_waitlist": false,
+      "group": 59400
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "8:30-9am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 30600.0,
+      "in_waitlist": false,
+      "group": 59400
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "9-9:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 32400.0,
+      "in_waitlist": false,
+      "group": 70200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "9:30-10am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 34200.0,
+      "in_waitlist": false,
+      "group": 70200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "10-10:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 36000.0,
+      "in_waitlist": false,
+      "group": 70200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "10:30-11am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 37800.0,
+      "in_waitlist": false,
+      "group": 81000
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "11-11:30am",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 39600.0,
+      "in_waitlist": false,
+      "group": 81000
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "11:30-12pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 41400.0,
+      "in_waitlist": false,
+      "group": 81000
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "12-12:30pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 43200.0,
+      "in_waitlist": false,
+      "group": 93600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "12:30-1pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 45000.0,
+      "in_waitlist": false,
+      "group": 93600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "1-1:30pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 46800.0,
+      "in_waitlist": false,
+      "group": 93600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "1:30-2pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 48600.0,
+      "in_waitlist": false,
+      "group": 93600
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "2-2:30pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 50400.0,
+      "in_waitlist": false,
+      "group": 106200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "2:30-3pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 52200.0,
+      "in_waitlist": false,
+      "group": 106200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "3-3:30pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 54000.0,
+      "in_waitlist": false,
+      "group": 106200
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "3:30-4pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 55800.0,
+      "in_waitlist": false,
+      "group": 117000
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "4-4:30pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 57600.0,
+      "in_waitlist": false,
+      "group": 117000
+    },
+    {
+      "facility_schedule_id": 6995,
+      "schedule": "4:30-5pm",
+      "shift": "Primetime Weekend ",
+      "available": true,
+      "seconds_from_midnight": 59400.0,
+      "in_waitlist": false,
+      "group": 117000
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "5-5:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 61200.0,
+      "in_waitlist": false,
+      "group": 127800
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "5:30-6pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 63000.0,
+      "in_waitlist": false,
+      "group": 127800
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "6-6:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 64800.0,
+      "in_waitlist": false,
+      "group": 127800
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "6:30-7pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 66600.0,
+      "in_waitlist": false,
+      "group": 138600
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "7-7:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 68400.0,
+      "in_waitlist": false,
+      "group": 138600
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "7:30-8pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 70200.0,
+      "in_waitlist": false,
+      "group": 138600
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "8-8:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 72000.0,
+      "in_waitlist": false,
+      "group": 149400
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "8:30-9pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 73800.0,
+      "in_waitlist": false,
+      "group": 149400
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "9-9:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 75600.0,
+      "in_waitlist": false,
+      "group": 149400
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "9:30-10pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 77400.0,
+      "in_waitlist": false,
+      "group": 160200
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "10-10:30pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 79200.0,
+      "in_waitlist": false,
+      "group": 160200
+    },
+    {
+      "facility_schedule_id": 6997,
+      "schedule": "10:30-11pm",
+      "shift": "Low time Weekend",
+      "available": true,
+      "seconds_from_midnight": 81000.0,
+      "in_waitlist": false,
+      "group": 160200
+    }
+  ],
+  "meta": {
+    "specific_rules": {
+      "min_players_to_book": 4,
+      "reservation_number_of_player_user_ui": 4,
+      "max_consecutive_hours": 6.0,
+      "max_consecutive_hours_doubles": 6.0,
+      "min_players_quantity_to_book": 4,
+      "minimum_time_slots_allowed_to_book": null,
+      "force_add_all_players": false,
+      "force_payment_by_affiliation_on_surface": {},
+      "amount_of_hours_prior_to_book": 0.0,
+      "amount_of_max_hours_prior_to_book": 120.0,
+      "nextOpenScheduleDateTime": "2025-05-16T07:00:00.000-05:00",
+      "initialPlayerQuantitySelected": 4.0,
+      "priorityRequestStartHours": 144.0,
+      "priorityRequestEndHours": 120.0,
+      "playerBookingTimeStep": 1800.0
+    }
+  }
+}
