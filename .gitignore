@@ -1,0 +1,36 @@
+# Переменные окружения
+.env
+.env.*              
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# Django (разработческая)
+*.log
+*.pot
+*.pyc
+
+# База данных
+#
+# db.sqlite3
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS‑специфично
+.DS_Store
+Thumbs.db
