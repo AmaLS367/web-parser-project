@@ -8,7 +8,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 env = environ.Env(
     DEBUG=(bool, False),
 )
-# читаем файл .env в корне проекта
+
 environ.Env.read_env(env_file=BASE_DIR / '.env')
 
 # Основные настройки

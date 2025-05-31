@@ -14,7 +14,6 @@ app.config_from_object('django.conf:settings', namespace='CELERY')
 # Автоматически ищем задачи в файлах tasks.py установленных приложений
 app.autodiscover_tasks()
 
-# Для отладки
 @app.task(bind=True)
 def debug_task(self):
     print(f'Request: {self.request!r}')
