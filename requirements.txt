@@ -1,7 +1,6 @@
 Django
 django-environ
 django-redis
-celery
 django-celery-beat
 django-celery-results
 redis
@@ -13,3 +12,4 @@ pytesseract
 Pillow
 ipython
 psycopg2-binary>=2.9
+celery

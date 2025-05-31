@@ -38,3 +38,4 @@ try:
         list_per_page = 20
 except Exception:
     pass
+

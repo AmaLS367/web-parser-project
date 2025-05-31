@@ -72,6 +72,7 @@ python manage.py makemigration
 python manage.py migrate          # Для миграций 
 python manage.py runserver
 
+
 Откроется сайт по адресу http://127.0.0.1:8000/
 Админка: http://127.0.0.1:8000/admin/
 

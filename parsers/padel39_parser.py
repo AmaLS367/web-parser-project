@@ -6,6 +6,7 @@ import requests
 from datetime import datetime, timedelta
 from decimal import Decimal
 
+
 # Django setup
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
 django.setup()
