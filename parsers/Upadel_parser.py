@@ -3,12 +3,15 @@
 import time
 import random
 import re
+import os 
 import requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from .base_parser import BaseParser
 from core.models import Slot
+from dotenv import load_dotenv
 
+load_dotenv()
 
 class UpadelParser(BaseParser):
     SITE_NAME = "Upadel"
@@ -16,8 +19,8 @@ class UpadelParser(BaseParser):
     LOGIN_URL = "https://book.upadel.us/users/sign_in"
     AVAILABILITY_URL = "https://book.upadel.us/api/facilities/527/available_hours"
 
-    EMAIL = "levonlevonyanxx@gmail.com"
-    PASSWORD = "Project129!"
+    EMAIL = os.getenv("UPADEL_EMAIL")
+    PASSWORD = os.getenv("UPADEL_PASSWORD")
 
     GROUPS = {
         'a': {'surface': 'padel_indoor_a', 'name': 'Padel indoor A'},

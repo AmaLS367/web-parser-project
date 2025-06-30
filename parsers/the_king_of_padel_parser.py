@@ -92,7 +92,6 @@ def parse_and_save(data_list, date, booking_site):
                 count += 1
 
             except Exception as e:
-                # Если нужна отладка, можно print(e) или logger.warning
                 print(f"[The King of Padel] Ошибка при сохранении слота {date} {court_name}: {e}")
 
     return count

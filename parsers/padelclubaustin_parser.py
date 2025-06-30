@@ -7,7 +7,10 @@ import requests
 from bs4 import BeautifulSoup
 from .base_parser import BaseParser
 from core.models import Slot
+import os 
+from dotenv import load_dotenv
 
+load_dotenv()
 
 class PadelClubAustinParser(BaseParser):
     SITE_NAME = "Padel Club Austin"
@@ -16,8 +19,8 @@ class PadelClubAustinParser(BaseParser):
     login_url = base_url + "/users/sign_in"
     api_url = base_url + "/api/facilities/674/available_hours"
 
-    email = "levonlevonyanxx@gmail.com"
-    password = "Project129!"
+    email = os.getenv("PADELCLUBAUSTIN_EMAIL")
+    password = os.getenv("PADELCLUBAUSTIN_PASSWORD")
 
     groups = {
         'A': {'surface': 'padel_outdoor_a', 'name': 'Padel indoor A'},
